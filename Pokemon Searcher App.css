@@ -1,0 +1,28 @@
+#maindiv{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 660px;
+    background-color: rgb(138, 29, 146);
+    margin-top: 3%;
+    margin-left:35% ;
+}
+#search-input{
+    margin-top: 4%;
+}
+#search-button{
+    height: 30px;
+    width: 90px;
+    border-radius: 6px;
+    margin-top: 4%;
+    background-color: rgb(64, 36, 32);
+    padding-top: 0.3%;
+    color: whitesmoke;
+    
+}
+#mainheading{
+    color: rgb(20, 67, 55);
+    text-decoration: underline;
+    margin-top: 2%;
+}

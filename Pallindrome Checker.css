@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(181, 176, 136);
+}
+
+#div1{
+    width: 400px;
+    height: 200px;
+    border-radius: 4px;
+    background-color: rgb(29, 32, 115);
+    margin-left: 37%;
+    margin-top: 5%;
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#define{
+    width: 400px;
+    height: 150px;
+    font-size:x-large;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(41, 140, 114);
+    border-radius: 6px;
+    border: 3px solid purple;
+    margin-left: 37%;
+    margin-top: 3%;
+}
+
+h1{
+    margin-top: 2%;
+}
+
+#text-input{
+    margin-top: 20px;
+}
+
+#result{
+    margin-top:4%;
+    font-size: x-large;
+    color: rgb(220, 25, 25);
+}
+
+
+ 
